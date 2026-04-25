@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anushree-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushreek09/)
 [![Email](https://img.shields.io/badge/Email-kanushree46@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanushree46@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Anushree--09-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anushree-09)
-[![Location](https://img.shields.io/badge/📍_Bengaluru-Open%20to%20Remote-34A853?style=for-the-badge)](https://github.com/Anushree-09)
+[![Location](https://img.shields.io/badge/📍_Bengaluru-Open%20to%20Relocation-34A853?style=for-the-badge)](https://github.com/Anushree-09)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anushree-09&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
 
