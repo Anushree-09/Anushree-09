@@ -88,7 +88,7 @@ and business analysis roles alongside DE.
 
 ## 🏅 Certification
 
-[![IBM BA Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/6T28VQ1WER65)
+[![IBM BA Certificate](https://img.shields.io/badge/IBM-Business%20Analyst%20Professional%20Certificate-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://coursera.org/verify/professional-cert/6T28VQ1WER65)
 
 ---
 
