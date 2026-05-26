@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Hi,%20I'm%20Anushree%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%26%20Analyst&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Hi,%20I'm%20Anushree%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer&descAlignY=58&descSize=18)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anushree-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushreek09/)
 [![Email](https://img.shields.io/badge/Email-kanushree46@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanushree46@gmail.com)
