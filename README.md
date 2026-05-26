@@ -15,7 +15,7 @@
 
 ## 🙋‍♀️ About me
 
-Data Engineer with 2+ years building pipelines, transforming messy data into
+Data Engineer and Analyst with 2+ years building pipelines, transforming messy data into
 clean, reliable systems, and turning numbers into dashboards that people
 actually use. Currently leveling up in cloud (AWS) and exploring analytics
 and business analysis roles alongside DE.
@@ -98,8 +98,8 @@ and business analysis roles alongside DE.
   KPIs, variance analysis, and executive-level summaries from raw business data
 - 📐 Practising BA deliverables — BRDs, FRDs, user stories, process flow
   diagrams, and stakeholder requirement documents
-- 📈 Sharpening Tableau with real business datasets — sales performance,
-  customer segmentation, operational reporting
+- 📈 Sharpening Power BI & Tableau with real business datasets — sales performance,
+  customer segmentation, operational reporting.
 - ☁️ Deepening AWS skills — S3, Glue, and Lambda for cloud-native pipelines
 - 🔗 Learning to bridge data (SQL + Python) and business requirements —
   translating technical findings into actionable insights for non-technical
